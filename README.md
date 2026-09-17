@@ -296,7 +296,7 @@ model.save_pretrained("./qwen2.5-finetuned")
 ---
 
 # Inference Architecture
-
+```
 User Question
 │
 ▼
@@ -316,7 +316,7 @@ Fine-Tuned Qwen2.5
 │
 ▼
 Answer
-
+```
 ---
 
 # RAG Integration
