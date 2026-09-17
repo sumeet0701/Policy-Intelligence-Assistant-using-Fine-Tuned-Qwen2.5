@@ -1,5 +1,6 @@
 # Policy Intelligence Assistant
-### Fine-Tuning Qwen2.5-1.5B for Enterprise Policy Understanding using QLoRA + RAG
+### Fine-Tuning Qwen2.5-1.5B for Enterprise Policy Understanding using QLoRA
+
 
 ## Overview
 
