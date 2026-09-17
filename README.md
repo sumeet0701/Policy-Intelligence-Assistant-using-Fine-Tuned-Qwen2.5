@@ -48,23 +48,26 @@ The objective of this project is to create a domain-specialized Small Language M
 # Solution Architecture
 
 Policy Documents
+
        │
        ▼
+
 Document Processing
        │
        ▼
+
 Instruction Dataset Generation
        │
        ▼
+
 QLoRA Fine-Tuning
        │
        ▼
+
 Fine-Tuned Qwen2.5-1.5B
        │
        ▼
-RAG Integration
-       │
-       ▼
+
 Policy Assistant
 
 ---
